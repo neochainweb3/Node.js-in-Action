@@ -1,6 +1,4 @@
-Here’s your **GitHub/website-friendly version** of the master README — properly formatted in Markdown with all headers, code blocks, and folder structure intact:
 
----
 
 ```markdown
 # 📘 Node.js in Action – Full Codebase (Chapters 1–42)
